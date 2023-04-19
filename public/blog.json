@@ -1,0 +1,22 @@
+[
+  {
+    "question": ">When should we use Context API?",
+    "answer": "When we send data to multiple components then we have to send data through props drilling, context API is used to avoid props drilling. Context API is a powerful feature in ReactJS that allows us to pass data and functions down the component tree without having to manually pass them through props. This can be useful for avoiding prop drilling and making it easier to share data between components.",
+    "img": "https://i.ibb.co/80DbYYZ/context.png"
+  },
+  {
+    "question": "What is a Custom Hook?",
+    "answer": "Custom hooks in React, start with the word 'use' and allows us to extract reusable logic from user components into a separate function. It can be used to encapsulate complex logic, share stateful logic between components, or create reusable behaviors that can be shared across different projects like a function. ",
+    "img": "https://i.ibb.co/PYmQ7Qn/customhook.png"
+  },
+  {
+    "question": "What is useRef? Show a practical example",
+    "answer": "useRef is a hook in React that allows us to create a mutable reference to a value that persists between renders. useRef can be used to store a reference to a DOM element, create a mutable variable that can be accessed by other hooks, or create a memoized value that persists between renders. ",
+    "img": "https://i.ibb.co/J5s3Bj5/useref.png"
+  },
+  {
+    "question": "What is useMemo? Show a practical example",
+    "answer": "useMemo is a hook in React that allows us to optimize the performance of user components by memoizing expensive computations. It takes two arguments in its parameter, an array of dependencies and some functions whose output you want to cache. By default, the useMemo hook will execute the function you passed as an argument after the initial render.",
+    "img": "https://i.ibb.co/C8PNCHg/usememo.jpg"
+  }
+]

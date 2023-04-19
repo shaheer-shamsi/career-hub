@@ -1,0 +1,9 @@
+[
+  { "id": 1, "name": "HTML/CSS", "mark": 57 },
+  { "id": 2, "name": "Responsive", "mark": 30 },
+  { "id": 3, "name": "Bootstrap", "mark": 29 },
+  { "id": 4, "name": "JS", "mark": 58 },
+  { "id": 5, "name": "DOM", "mark": 60 },
+  { "id": 6, "name": "API", "mark": 25 },
+  { "id": 7, "name": "React", "mark": 60 },
+]
