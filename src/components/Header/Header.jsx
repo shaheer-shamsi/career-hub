@@ -76,7 +76,7 @@ const Header = () => {
           <div>
             <Link to="/">
               <span className="ml-2 md:ml-0 text-lg sm:text-xl md:text-[32px] font-extrabold">
-                TalentTrail
+                Developer Hire PHWebDev
               </span>
             </Link>
           </div>
